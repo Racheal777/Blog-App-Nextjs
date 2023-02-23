@@ -19,6 +19,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
+
         <Link href="/posts/post">First Page</Link>
 
         <div className={styles.grid}>
